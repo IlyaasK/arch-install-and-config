@@ -1,0 +1,160 @@
+#TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
+,xorg-server,is the graphical server.
+,xorg-xwininfo,allows querying information about windows.
+,xorg-xinit,starts the graphical server.
+,ttf-linux-libertine,provides the sans and serif fonts for LARBS.
+A,lf-git,is an extensive terminal file manager that everyone likes.
+,bc,is used for a dropdown calculator.
+,xcompmgr,is for transparency and removing screen-tearing.
+,xorg-xprop,is a tool for detecting window properties.
+,arandr,allows the user to customize monitor arrangements.
+,dosfstools,allows your computer to access dos-like filesystems.
+,libnotify,allows desktop notifications.
+,dunst,is a suckless notification system.
+,exfat-utils,allows management of FAT drives.
+,sxiv,is a minimalist image viewer.
+,xwallpaper,sets the wallpaper.
+,ffmpeg,can record and splice video and audio on the command line.
+,gnome-keyring,serves as the system keyring.
+A,gtk-theme-arc-gruvbox-git,gives the dark GTK theme used in LARBS.
+,neovim,a tidier vim with some useful features
+,mpd,is a lightweight music daemon.
+,mpc,is a terminal interface for mpd.
+,mpv,is the patrician's choice video player.
+,man-db,lets you read man pages of programs.
+,ncmpcpp,a ncurses interface for music with multiple formats and a powerful tag editor.
+,newsboat,is a terminal RSS client.
+A,brave-bin,"is an elegant browser with built-in adblocking, tor and other features."
+,noto-fonts-emoji,is an emoji font.
+,ntfs-3g,allows accessing NTFS partitions.
+,pulseaudio-alsa,is the audio system.
+,pulsemixer,is an audio controller.
+,pamixer,is a command-line audio interface.
+A,sc-im,is an Excel-like terminal spreadsheet manager.
+,maim,can take quick screenshots at your request.
+A,abook,is an offline addressbook usable by neomutt.
+,unclutter,hides an inactive mouse.
+,unrar,extracts rar's.
+,unzip,unzips zips.
+,lynx,is a terminal browser.
+,xcape,gives the special escape/super mappings of LARBS.
+,xclip,allows for copying and pasting from the command line.
+,xdotool,provides window action utilities on the command line.
+,xorg-xdpyinfo,aids with resolution determination and screen recording.
+,youtube-dl,can download any YouTube video (or playlist or channel) when given the link.
+,zathura,is a pdf viewer with vim-like bindings.
+,zathura-pdf-mupdf,allows mupdf pdf compatibility in zathura.
+,poppler,manipulates .pdfs and gives .pdf previews and other .pdf functions.
+,mediainfo,shows audio and video information.
+,atool,manages and gives information about archives.
+,fzf,is a fuzzy finder tool.
+,highlight,can highlight code output.
+,xorg-xbacklight,enables changing screen brightness levels.
+A,zsh-fast-syntax-highlighting,provides syntax highlighting in the shell.
+A,task-spooler,queues commands or files for download.
+A,simple-mtpfs,enables the mounting of cell phones.
+A,htop-vim-git,is a graphical and colorful system monitor.
+,slock,"allows you to lock your computer, and quickly unlock with your password."
+,socat,is a utility which establishes two byte streams and transfers data between them.
+,moreutils,is a collection of useful unix tools.
+,awesome,Beginner window manager based on dwm
+,xfce4-power-manager,XFCE gui to manage power
+,dmenu,suckless run promp
+,wpa_supplicant,Key negotiation for WPA wireless networks
+,dialog,Enables shell scripts to trigger dialog boxes
+,Network-manager-applet,System tray icon/utility for network connectivity
+,libsecret,Library for storing passwords
+,volumeicon,System tray volume control
+,pipewire,Low-latency audio/video router and processor
+,Pipewire-alsa,Low-latency audio/video router and processor - ALSA configuration
+,Pipewire-docs,Low-latency audio/video router and processor - documentation
+,pipewire-jack,Low-latency audio/video router and processor - JACK support
+,Pipewire-media-session,Low-latency audio/video router and processor - Session manager
+,Pipewire-pulse,Low-latency audio/video router and processor - PulseAudio replacement
+,pavucontrol,Pulse Audio volume control
+,bluez,Daemons for the bluetooth protocol stack
+,Bluez-utils,Bluetooth development and debugging utilities
+,Bluez-firmware,Firmwares for Broadcom BCM203x and STLC2300 Bluetooth chips
+,blueberry,Bluetooth configuration tool
+,cups,Open source printer drivers
+,cups-pdf,PDF support for cups
+,ghostscript,PostScript interpreter
+,gsfonts,Adobe Postscript replacement fonts
+,hplip,HP Drivers
+,System-config-printer,Printer setup utility
+,bleachbit,File deletion utility
+,curl,Remote content retrieval
+,ufw,uncomplicated firewall
+,fail2ban,basn ssh brute force attacks
+,net-tools,enables seeing open ports on machine
+,neofetch,Shows system info
+,rsync,Remote file sync utility
+,Auto-cpufreq,
+,wget,Remote content retrieval
+,kitty,GPU accelerated terminal
+,neovim,Multi-threaded terminal editor
+,zsh,shell
+,zsh-completions,shell completions
+,zsh-autosuggestions,command suggestions
+,zsh-history-substring-search,coomand substring history search
+,zsh-theme-powerlevel10k,shell theme
+,android-tools,ADB for Android
+,btrfs-progs,BTRFS Support
+,gparted,Disk utility
+,flameshot,advanced screenshots
+,pcmanfm,GUI file manager
+,git,git version control package
+,vlc,media player
+,libreoffice-fresh,MS office alternative
+,linux,Linux kernel
+,Linux-headers,linux kernel headers
+,ntp,Network Time Protocol to set time via network
+,autofs,automounter
+,linux-zen,linux zen kernel - more performance
+,linux-zen-headers,zen kernel headers
+,sxhkd,suckless hotkey daemon
+,bat,a cat(1) clone with syntax highlighting and Git integration.
+,discord,linux discord client
+,bitwarden,linux bitwarden client
+,exa,cd alternative
+,emacs,extensible text editor
+,etckeeper,"store /etc in git, mercurial, bazaar, or darcs"
+,opendoas,BSD doas port - more secure alternative to sudo
+,mlocate,"searches computer for files, CLI"
+,ncdu,shows graphical usage of disk
+,obs-studio,screen recording software
+,qbittorrent,torrent client
+,rkhunter,rootkit hunter
+,trash-cli,acess trash from terminal
+,wine,run Windows programs on Unix
+,winetricks,manage virtual Windows environments using Wine
+,wireless_tools,Tools allowing to manipulate the Wireless Extensions
+,xfce4-settings,GUI xfce4 settings manager
+,zip,enables zipping files from terminal
+,fwupd,firmware updater for laptops
+,stow,manage farms of symbolic links - GNU utility
+A,chkrootkit,checks for rootkit
+A,chromium-widevine,enables watching DRM content like netflix in your browser
+A,downgrade,enables downgrading packages
+A,droidcam,enables using your phone as a webcam
+A,elementary-planner,todo list app with todoist compatibility
+A,paru-bin,Feature packed AUR helper
+A,tuned,1 package found. Page 1 of 1.
+A,vmware-keymaps,Keymaps required by some VMware packages
+A,srcpy,Display and control your Android device
+A,Spotify-adblock-git,Adblocker for Spotify
+A,timeshift,snapshot backup utility
+A,timeshift-autosnap,Timeshift auto-snapshot script which runs before package upgrade using Pacman hook.
+A,vmware-workstation,The industry standard for running multiple operating systems as virtual machines on a single Linux PC.
+A,xkill-shortcut,Provides a shortcut to access xkill from the applications menu.
+A,ytfzf,A posix script to find and watch youtube videos from the terminal.
+A,czkawka-gui-bin,"Multi functional app to find duplicates, empty folders, similar images etc (GUI)"
+A,tuxi-git,A CLI tool that scrapes Google search results and SERPs to provide instant and concise answers
+A,z.lua,A new cd command that helps you navigate faster by learning your habits.
+,picom,X compositor that may fix tearing issues
+,nitrogen,Background browser and setter for X windows
+A,davinci-resolve-studio,Professional A/V post-production software suite from Blackmagic Design.
+,scrot,Simple command-line screenshot utility for X
+,xorg-xbacklight,RandR-based backlight control application
+,xsel,command-line program for getting and setting the contents of the X selection
+,shellcheck,Shell script analysis tool

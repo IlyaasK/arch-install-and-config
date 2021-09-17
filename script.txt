@@ -1,0 +1,29 @@
+https://archlinuxblog.medium.com/installing-and-configuring-awesome-wm-b4684fd09c9
+
+Arch install
+Awesome
+System config
+dotfiles
+scripts
+dl programs aura json
+
+https://github.com/LukeSmithxyz/LARBS
+https://gitlab.com/eflinux/arch-basic/-/blob/master/base-uefi.sh
+
+To do:
+Kitty.conf
+Home Cleaning
+Dotfiles
+Reinstall Arch
+Brave Profiles, Minimal, School, Browsing, Blockchain, Youtube
+setup nextdns on phone
+
+Man: Awk, Sed, ffmpeg, aura vimtutor
+
+Scripts:
+Dmenu Vocab Sript
+MPS to m4a script with input
+H264 to H265 script with input
+Merge videos script
+Merge audios script
+Weekly maintainence script - https://www.youtube.com/watch?v=wwSkFi3h2nI&t=313s , https://wiki.archlinux.org/title/System_maintenance
