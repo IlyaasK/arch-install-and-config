@@ -158,3 +158,8 @@ A,davinci-resolve-studio,Professional A/V post-production software suite from Bl
 ,xorg-xbacklight,RandR-based backlight control application
 ,xsel,command-line program for getting and setting the contents of the X selection
 ,shellcheck,Shell script analysis tool
+,fuse2,vmware dependencies - for vmware-vmblock-fuse
+,gtkmm,vmware dependencies - for the GUI
+,ncurses,vmware dependencies needed by the --console installer
+,libcanberra,vmware dependencies for event sounds
+,pcsclite,vmware dependencies
