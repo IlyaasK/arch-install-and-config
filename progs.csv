@@ -163,3 +163,4 @@ A,davinci-resolve-studio,Professional A/V post-production software suite from Bl
 ,ncurses,vmware dependencies needed by the --console installer
 ,libcanberra,vmware dependencies for event sounds
 ,pcsclite,vmware dependencies
+,Youtube-dl,online video downloader
